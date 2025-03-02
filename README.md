@@ -1,16 +1,14 @@
-## Hi there 👋
+![](https://shipanjodder.com/about-me.gif)  
+  
 
-<!--
-**shipanjodder/shipanjodder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏻‍💻 About me :
+==================
 
-Here are some ideas to get you started:
+Hi, This is **Shipan Jodder**. An Expert DevOps solutions for CI/CD pipeline automation, infrastructure as code (IaC), cloud migration, and more. Struggling with slow deployments and complex infrastructure? Optimize your development lifecycle and achieve continuous delivery..
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+
+🛠️ Skilled on :
+================
+
+![](https://skillicons.dev/icons?i=html,css,js,nodejs,py,php&perline=13) ![](https://skillicons.dev/icons?i=wordpress,mysql,laravel,react,express,nextjs,mongodb&perline=13) ![](https://skillicons.dev/icons?i=github,netlify,vercel,heroku,bitbucket&perline=13) ![](https://skillicons.dev/icons?i=windows,ubuntu,debian,redhat,kali,mint&perline=13) ![](https://skillicons.dev/icons?i=nginx,git,gitlab,jenkins,ansible,terraform,docker,kubernetes,grafana,prometheus&perline=13) ![](https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,digitalocean&perline=13) ![](https://skillicons.dev/icons?i=vscode,replit,ps,ai,ae,pr&perline=13)
